@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" rx="30" fill="#F1F5F9"/>
+  <path d="M570 0c-40 140 35 230-20 350-45 100 35 220-20 350" fill="none" stroke="#2563EB" stroke-width="26" opacity=".45"/>
+  <path d="M70 80h450v540H70z" fill="#DBEAFE" stroke="#94A3B8" stroke-width="4"/>
+  <path d="M600 80h530v200H600z" fill="#E0F2FE" stroke="#94A3B8" stroke-width="4"/>
+  <path d="M600 280h530v340H600z" fill="#FFF7ED" stroke="#94A3B8" stroke-width="4"/>
+  <text x="280" y="145" font-family="Arial" font-size="48" font-weight="700" fill="#1E3A8A">IOWA</text>
+  <text x="790" y="145" font-family="Arial" font-size="48" font-weight="700" fill="#1D4ED8">WISCONSIN</text>
+  <text x="810" y="385" font-family="Arial" font-size="48" font-weight="700" fill="#C2410C">ILLINOIS</text>
+  <circle cx="545" cy="340" r="120" fill="#F97316" opacity=".18"/>
+  <path d="M545 235c-58 0-105 47-105 105 0 78 105 184 105 184s105-106 105-184c0-58-47-105-105-105zm0 145a42 42 0 1 1 0-84 42 42 0 0 1 0 84z" fill="#F97316"/>
+  <text x="545" y="590" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#0F172A">Dubuque Tri-State Area</text>
+  <text x="545" y="632" text-anchor="middle" font-family="Arial" font-size="23" fill="#334155">Iowa • Illinois • Wisconsin</text>
+</svg>
