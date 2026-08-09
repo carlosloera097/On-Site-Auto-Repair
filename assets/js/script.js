@@ -90,7 +90,7 @@ document.querySelectorAll('[data-form]').forEach(form => {
     const spanish = document.documentElement.lang.toLowerCase().startsWith('es');
     const lines = spanish
       ? [
-          'Hola, quiero solicitar una cotización con On-Site Auto Repair.',
+          'Hola, quiero solicitar una cotización con Tri State Drive Fix.',
           `Nombre: ${data.get('name') || ''}`,
           `Ciudad / ZIP: ${data.get('area') || ''}`,
           `Vehículo: ${data.get('vehicle') || ''}`,
@@ -98,7 +98,7 @@ document.querySelectorAll('[data-form]').forEach(form => {
           `Detalles: ${data.get('details') || ''}`
         ]
       : [
-          'Hello, I would like an estimate from On-Site Auto Repair.',
+          'Hello, I would like an estimate from Tri State Drive Fix.',
           `Name: ${data.get('name') || ''}`,
           `City / ZIP: ${data.get('area') || ''}`,
           `Vehicle: ${data.get('vehicle') || ''}`,

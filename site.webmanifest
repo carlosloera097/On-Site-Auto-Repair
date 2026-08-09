@@ -1,6 +1,6 @@
 {
-  "name": "On-Site Auto Repair",
-  "short_name": "On-Site Auto",
+  "name": "Tri State Drive Fix",
+  "short_name": "Tri State Drive Fix",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFFFFF",
